@@ -1,2 +1,2 @@
 
-const openAIAPIKey = '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'/* YOUR OpenAI KEY HERE */;
+const openAIAPIKey = 'sk-proj-bi0yTxejA-'/* YOUR OpenAI KEY HERE */;
